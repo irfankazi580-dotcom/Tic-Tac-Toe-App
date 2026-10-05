@@ -1,4 +1,4 @@
-[app]
+স[app]
 title = Tic Tac Toe
 package.name = tictactoe
 package.domain = org.irfan
@@ -16,8 +16,4 @@ android.minapi = 21
 android.ndk = 25b
 android.archs = arm64-v8a
 p4a.branch = master
-bootloader = default
-
-[buildozer]
-log_level = 2
-warn_on_root = 1
+bo
